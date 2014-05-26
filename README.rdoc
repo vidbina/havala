@@ -1,0 +1,6 @@
+= Havālā (ਹਵਾਲਾ)
+
+This is just a silly attempt to write an quotes engine for Rails.
+
+I'm publishing this one under the MIT-LICENSE, not really expecting anyone
+to ever seriously use this.
